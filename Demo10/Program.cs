@@ -12,6 +12,8 @@ namespace Demo10
         {
             int[] numbers = new int[5];
 
+            Console.WriteLine("Console write line.");
+
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine($"Number { i + 1 }");       

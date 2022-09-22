@@ -10,7 +10,7 @@ namespace AmazingProject
     {
         public static void Main()
         {
-            Console.Write("How much data do I reserve: ");
+            Console.Write("How much data did I reserve: ");
             int repeticiones = Convert.ToInt32(Console.ReadLine());
             float numero;
             float[] listaNumeros = new float[repeticiones];

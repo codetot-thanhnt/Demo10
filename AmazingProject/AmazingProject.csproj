@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8A96DCA0-6EFF-485F-9367-4ACA21DFF79B}</ProjectGuid>
+    <ProjectGuid>{01449AEB-AF4F-4240-9A65-411EEACCE25E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Demo10</RootNamespace>
-    <AssemblyName>Demo10</AssemblyName>
+    <RootNamespace>AmazingProject</RootNamespace>
+    <AssemblyName>AmazingProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,9 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

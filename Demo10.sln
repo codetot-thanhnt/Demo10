@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazingProject", "AmazingPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraysum", "arraysum\arraysum.csproj", "{323E7616-8D63-402B-933D-B2661B61D31C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo11", "Demo11\Demo11.csproj", "{9F58252A-6030-4D62-A3B9-3097124AD25F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{323E7616-8D63-402B-933D-B2661B61D31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{323E7616-8D63-402B-933D-B2661B61D31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{323E7616-8D63-402B-933D-B2661B61D31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F58252A-6030-4D62-A3B9-3097124AD25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F58252A-6030-4D62-A3B9-3097124AD25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F58252A-6030-4D62-A3B9-3097124AD25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F58252A-6030-4D62-A3B9-3097124AD25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

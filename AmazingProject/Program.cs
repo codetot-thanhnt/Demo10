@@ -17,7 +17,7 @@ namespace AmazingProject
 
             for (int i = 0; i < repeticiones; i++)
             {
-                Console.Write("Tell me number {0} to save in the list:", i);
+                Console.Write("Tell me number {0} to save in the list: ", i);
                 listaNumeros[i] = Convert.ToSingle(Console.ReadLine());
             }
 
